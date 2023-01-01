@@ -1,0 +1,84 @@
+@media screen and ( max-width:991px){
+    .modal_cont{
+        padding: 1.5rem !important;
+    }
+    .model_left {
+        max-width: 100%;
+        height: 401px;
+        margin-top: 20x;
+      }
+    .model_right h2{
+        font-size: 28px;
+    }
+    .model_right p{
+        font-size: 16px;
+    }
+    .model_btn a{
+        font-size: 16px;
+        padding: 8.5px 16px;
+    }
+    
+}
+
+@media screen and ( max-width:768px){
+    .modal_cont{
+        padding: 1.5rem !important;
+    }
+    .model_left {
+        max-width: 100%;
+        height: 401px;
+        margin-top: 20x;
+      }
+    .model_right h2{
+        font-size: 28px;
+    }
+    .model_right p{
+        font-size: 16px;
+    }
+    .model_btn a{
+        font-size: 16px;
+        padding: 8.5px 16px;
+    }
+}
+
+@media screen and ( max-width:568px){
+    .inner_top_bar{
+        display:none;
+    }
+
+    navbar-toggler-icon-bg{
+        background-color: #333;
+    }
+    .donate{
+        display:none;
+    }
+    .modal_item{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .modal_cont{
+        padding: 0rem !important;
+    }
+    .model_left{
+        max-width:350px;
+        height: 370px;
+        margin-bottom: 20px;
+    }
+    .model_right h2{
+        font-size: 24px;
+    }
+    .model_right p{
+        font-size: 14px;
+    }
+    .model_btn a{
+        font-size: 14px;
+        padding: 7px 14px;
+    }
+    .our_title{
+        text-align: center;
+    }
+    .our_title p{
+        margin: 0 auto;
+    }
+}
